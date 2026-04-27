@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center">
-My Skills
+Some tools that I worked with
 </h2>
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
